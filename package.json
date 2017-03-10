@@ -1,0 +1,30 @@
+{
+  "name": "blip-empty-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && tsc -w",
+    "lite": "lite-server",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvimbert/blip-empty-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvimbert/blip-empty-project/issues"
+  },
+  "homepage": "https://github.com/cvimbert/blip-empty-project#readme",
+  "dependencies": {
+    "blip-framework": "github:cvimbert/blip-framework",
+    "systemjs": "^0.20.9"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  }
+}
