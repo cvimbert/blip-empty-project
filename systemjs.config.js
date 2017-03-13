@@ -11,7 +11,7 @@
         map: {
             src: "src",
             'rxjs': 'npm:rxjs',
-            'blip-framework': 'npm:blip-framework/bundles/blip-framework.umd.js',
+            'blip-framework': 'npm:blip-framework'
         },
         packages: {
             src: {
