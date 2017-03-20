@@ -22,6 +22,7 @@
   "homepage": "https://github.com/cvimbert/blip-empty-project#readme",
   "dependencies": {
     "blip-framework": "github:cvimbert/blip-framework",
+    "lite-server": "^2.3.0",
     "systemjs": "^0.20.9"
   },
   "devDependencies": {
