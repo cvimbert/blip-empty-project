@@ -1,4 +1,2 @@
-/**
- * Created by Christophe on 10/03/2017.
- */
-var sp:Sprite
+import {Sprite, Sequence} from "blip-framework/core";
+var s:Sequence = new Sequence
